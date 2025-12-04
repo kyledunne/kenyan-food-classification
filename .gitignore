@@ -1,4 +1,6 @@
 data/images
+data_gen
 runs
+.idea
 kenyan_food_classifier_old.ipynb
 kenyan_food_classifier_old_2.ipynb
